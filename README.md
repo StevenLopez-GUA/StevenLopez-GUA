@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven López</h1>
-<h3 align="center">I am a Front End developer originally from Guatemala and passionate about programming.</h3>
+<h3 align="center">I am a FullStack developer originally from Guatemala and passionate about programming.</h3>
 
 - 🌱 I’m currently learning **Angular**
 
